@@ -1,3 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
-  The .git folder gets installed. It is necessary
-  to begin detecting and tracking files.
+
+    The .git folder gets installed. It is necessary
+    to begin detecting and tracking files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    You never really work from the staging area. It
+    is valuable because it allows you to commit only
+    one or some of the files at a time.
