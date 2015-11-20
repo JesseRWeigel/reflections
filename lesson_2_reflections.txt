@@ -26,3 +26,9 @@ How do the diagrams help you visualize the branch structure?
     They show each branch like a path. You can
     easily see the commits for each branch and
     where the branched diverged.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    All of the commits from both branches are now
+    included. It is represented as two branches
+    converging because now all of the commits arguments parts of one branch.
