@@ -32,3 +32,9 @@ What is the result of merging two branches together? Why do we represent it in t
     All of the commits from both branches are now
     included. It is represented as two branches
     converging because now all of the commits arguments parts of one branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Automatic merge is a lot faster, but may have
+    unintended results. Manual merges take longer but
+    give you control over how things get merged.
