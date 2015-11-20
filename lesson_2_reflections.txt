@@ -20,3 +20,9 @@ What are some situations when branches would be helpful in keeping your history 
     program while keeping the main version intact.
     Branched would allow you to quickly switch between
     versions and keep them separate.
+
+How do the diagrams help you visualize the branch structure?
+
+    They show each branch like a path. You can
+    easily see the commits for each branch and
+    where the branched diverged.
