@@ -8,3 +8,15 @@ How is the staging area different from the working directory and the repository?
     You never really work from the staging area. It
     is valuable because it allows you to commit only
     one or some of the files at a time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Even if you have work on a lot of stuff, you can
+    still choose to commit each file on its own.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    When you want to try out a new version of your
+    program while keeping the main version intact.
+    Branched would allow you to quickly switch between
+    versions and keep them separate.
