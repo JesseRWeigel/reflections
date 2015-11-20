@@ -18,3 +18,7 @@ Describe the differences between forks, clones, and branches. When would you use
     parallel to each other. They are not entire repos
     like a fork or clone. A fork or clone can contain
     many branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    You can edit it offline.
