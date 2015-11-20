@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+    You would want a remote if:
+      - You will be working from multiple computers
+      - More than one person will be working
+      - You want to share/get input from others
+      - You want a backup
