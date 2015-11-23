@@ -32,3 +32,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     be harder to keep track of all the changes, track
     multiple files, and collaborate with lots of
     people on the same project.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    I would use a separate branch if I was working on a new version or feature. It has the benefit of
+    allowing me to make major changes to my code while
+    still keeping the master branch unchanged. I can
+    have multiple versions of my code all at once.
+    Working directly in the master branch does save
+    you from having to merge later and works for small
+    changes.
